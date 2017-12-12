@@ -1,6 +1,7 @@
 # datastreaming-presentation
 Datastreaming presentation
 
+Presentation Slides: https://github.com/smarcu/datastreaming-presentation/blob/master/data-streaming-presentation.pdf
 
 ## Generate a sample kafka streaming project
 
