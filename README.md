@@ -151,3 +151,11 @@ kafka-console-consumer --bootstrap-server localhost:9092 \
           --property key.deserializer=org.apache.kafka.common.serialization.StringDeserializer \
           --property value.deserializer=org.apache.kafka.common.serialization.LongDeserializer
 ```
+
+## Dockerized 3 Broker Cluster
+
+* Install Docker https://www.docker.com/get-docker
+* Fetch the github project: https://github.com/wurstmeister/kafka-docker
+* Follow the instructions on kafka-docker (update docker-compose.yml)
+
+
